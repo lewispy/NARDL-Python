@@ -229,7 +229,7 @@ Contributions and issues are welcome. Please open a descriptive issue with a sma
 
 ## License
 
-Choose a license for the repository. Many users pick MIT for code libraries. Update this section once you decide.
+This project is licensed under the MIT License © 2025 Patrick Onodje. See the [LICENSE](LICENSE) file for details.
 
 ---
 
